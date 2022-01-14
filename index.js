@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Discord = require('discord.js');
 const Client = require('./client/Client');
-const config = require('./config.json');
+// const config = require('./config.json');
 const {Player} = require('discord-player');
 
 const client = new Client();
@@ -51,7 +51,7 @@ client.once('ready', async () => {
 });
 
 client.on('ready', function() {
-  client.user.setActivity(config.activity, { type: config.activityType });
+  client.user.setActivity(process.env.MESSAGE, { type: process.env.ACTIVITY });
 });
 
 client.once('reconnecting', () => {
