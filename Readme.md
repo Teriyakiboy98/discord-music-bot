@@ -3,8 +3,8 @@ A discord bot that plays music on your discord server.
 ## Table of content
 
 * [Requirements](#requirements)
-* [Deploying commands](#getting-started)
-* [Author's](#author)
+* [Deployment commands](#Deployment-commands)
+* [Author's](#Author's)
 
 ## Requirements
 
@@ -12,7 +12,7 @@ A discord bot that plays music on your discord server.
 - [NPM](https://www.npmjs.com/)
 - [FFMPEG](https://www.ffmpeg.org/)
 
-## Deploying commands
+## Deployment commands
 
 To initialize "/" commands Deploy the Bot's commands using "!deploy"
 
