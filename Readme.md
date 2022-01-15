@@ -3,7 +3,7 @@ A discord bot that plays music on your discord server.
 ## Table of content
 
 * [Requirements](#requirements)
-* [Getting started](#getting-started)
+* [Deploying commands](#getting-started)
 * [Author's](#author)
 
 ## Requirements
