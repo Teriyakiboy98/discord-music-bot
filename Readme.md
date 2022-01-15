@@ -4,8 +4,6 @@ A discord bot that plays music on your discord server.
 
 * [Requirements](#requirements)
 * [Getting started](#getting-started)
-* [Common errors](#common-errors)
-* [Contributing](#contributing)
 * [Author's](#author)
 
 ## Requirements
@@ -67,4 +65,4 @@ To initialize "/" commands Deploy the Bot's commands using "!deploy"
 
 ## Support me and maybe watch my stream
 
-* At Twitch [https://streamelements.com/teriyakiboy98/tip]
+* On Twitch [https://streamelements.com/teriyakiboy98/tip]
