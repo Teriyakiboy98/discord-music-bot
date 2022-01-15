@@ -4,7 +4,7 @@ A discord bot that plays music on your discord server.
 
 * [Requirements](#requirements)
 * [Deployment commands](#Deployment-commands)
-* [Author's](#Author's)
+* [Author's](#Authors)
 
 ## Requirements
 
@@ -58,7 +58,7 @@ To initialize "/" commands Deploy the Bot's commands using "!deploy"
 
 `/remove POSITION`
 
-## Author's
+## Authors
 
 * Rehan Shivani [https://teriyakiboy98.github.io/WhoAmI/] &
 * Rishi Mathur [https://github.com/skyrunner360]
