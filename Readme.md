@@ -2,11 +2,9 @@ A discord bot that plays music on your discord server.
 
 ## Table of content
 
-* [Requirements](#requirements)
-* [Getting started](#getting-started)
-* [Common errors](#common-errors)
-* [Contributing](#contributing)
-* [Author's](#author)
+* [Requirements](#Requirements)
+* [Getting started](#Deployment-commands)
+* [Authors](#Authors)
 
 ## Requirements
 
@@ -14,7 +12,7 @@ A discord bot that plays music on your discord server.
 - [NPM](https://www.npmjs.com/)
 - [FFMPEG](https://www.ffmpeg.org/)
 
-## Deploying commands
+## Deployment commands
 
 To initialize "/" commands Deploy the Bot's commands using "!deploy"
 
@@ -60,11 +58,11 @@ To initialize "/" commands Deploy the Bot's commands using "!deploy"
 
 `/remove POSITION`
 
-## Author's
+## Authors
 
 * Rehan Shivani [https://teriyakiboy98.github.io/WhoAmI/] &
 * Rishi Mathur [https://github.com/skyrunner360]
 
 ## Support me and maybe watch my stream
 
-* At Twitch [https://streamelements.com/teriyakiboy98/tip]
+* On Twitch [https://streamelements.com/teriyakiboy98/tip]
